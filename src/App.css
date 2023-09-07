@@ -1,0 +1,51 @@
+.nav{
+  text-align: center;
+font-size: 40px;
+display: flex;
+justify-content: space-around;
+height: 60px;
+border: 1px solid royalblue;
+background-color: rgb(27, 66, 182);
+font-style: italic;
+font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+table{
+  color: black;
+  text-align: center;
+  background-color: whitesmoke;
+width: 80vw;
+height: 400px;
+
+font-size: 23px;
+
+}
+
+.nav{
+  display: flex;
+ 
+  justify-content: space-around;
+  background-color: rebeccapurple;
+}
+
+@media only screen and (max-width:"550px"){
+
+.nav{
+  flex-direction:column;
+  width: 100vw;
+}
+
+  table{
+    position: absolute;
+    top:55%;
+    left: 0%;
+    
+  }
+  
+}
