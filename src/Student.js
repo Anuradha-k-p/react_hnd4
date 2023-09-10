@@ -31,7 +31,7 @@ const Student = () =>{
                 <td className='td1'>26</td>
                 <td className='td'>MERN</td>
                 <td className='td2'>October</td>
-                <td className='td'>Edit</td>
+                <td className='td'><NavLink>Edit</NavLink></td>
             </tr>
         <hr />
 
@@ -40,7 +40,7 @@ const Student = () =>{
                 <td className='td1'>25</td>
                 <td className='td'>MERN</td>
                 <td className='td2'>November</td>
-                <td className='td'>Edit</td>
+                <td className='td'><NavLink>Edit</NavLink></td>
             </tr>
         <hr />
             
@@ -49,7 +49,7 @@ const Student = () =>{
                 <td className='td1'>26</td>
                 <td className='td'>MERN</td>
                 <td className='td2'>Septebmer</td>
-                <td className='td'>Edit</td>
+                <td className='td'><NavLink>Edit</NavLink></td>
             </tr>
             
         <hr />
@@ -58,7 +58,7 @@ const Student = () =>{
                 <td className='td1'>22</td>
                 <td className='td'>MERN</td>
                 <td className='td2'>October</td>
-                <td className='td'>Edit</td>
+                <td className='td'><NavLink>Edit</NavLink></td>
             </tr>
         <hr />
             <tr>
@@ -66,7 +66,7 @@ const Student = () =>{
                 <td className='td1'>23</td>
                 <td className='td'>MERN</td>
                 <td className='td2'>October</td>
-                <td className='td'>Edit</td>
+                <td className='td'><NavLink>Edit</NavLink></td>
             </tr>
         <hr />
             <tr>
@@ -74,7 +74,7 @@ const Student = () =>{
                 <td className='td1'>24</td>
                 <td className='td'>MERN</td>
                 <td className='td2'>November</td>
-                <td className='td'>Edit</td>
+                <td className='td'><NavLink>Edit</NavLink></td>
             </tr>
         <hr />
             <tr>
@@ -82,7 +82,7 @@ const Student = () =>{
                 <td className='td1'>24</td>
                 <td className='td'>MERN</td>
                 <td className='td2'>October</td>
-                <td className='td'>Edit</td>
+                <td className='td'><NavLink>Edit</NavLink></td>
             </tr>
         </tbody>
       </table>
